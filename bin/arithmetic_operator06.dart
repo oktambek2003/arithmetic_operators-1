@@ -8,5 +8,11 @@ Find the sum of a, b and c then assign to "answer".
 
 */
 void main() {
+  int a = 7;
+  int b = 3;
+  int d = 5;
+  int javob = (a + b + d);
+  print(javob);
+  
   //write your code here
 }
