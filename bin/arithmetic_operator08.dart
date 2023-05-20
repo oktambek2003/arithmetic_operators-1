@@ -8,5 +8,11 @@ Find the expression value assign to 'answer'. ab/c
 
 */
 void main() {
+  int a = 3;
+  int b = 3;
+  int c = 2;
+  int javob = (a * b ~/ c);
+  print(javob);
+
   //write your code here
 }
