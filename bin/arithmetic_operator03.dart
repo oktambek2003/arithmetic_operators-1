@@ -11,7 +11,8 @@ void main() {
   int b = 2;
   int javob = (a + b);
   print(javob);
-  
+  int javob_1=a-b;
+  print(javob_1);
 
   //write your code here
 }
