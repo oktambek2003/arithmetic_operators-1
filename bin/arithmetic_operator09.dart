@@ -9,5 +9,13 @@ Find the expression value assign to 'answer'. a+b - cd .
 
 */
 void main() {
+  int a = 8;
+  int b = 3;
+  int c = 2;
+  int d = 4;
+  int javob = (a + b - c * d);
+  print(javob);
+  
+
   //write your code here
 }
